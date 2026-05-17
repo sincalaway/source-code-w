@@ -14,7 +14,7 @@
 
 | Project | Description |
 | --- | --- |
-| [claude_agent_teams_ui](https://github.com/777genius/claude_agent_teams_ui) | You're the CTO, agents are your team. They handle tasks themselves, message each other, review each other's code. You just look at the kanban board and drink coffee. |
+| [agent-teams-ai](https://github.com/777genius/agent-teams-ai) | You're the CTO, agents are your team. They handle tasks themselves, message each other, review each other's code. You just look at the kanban board and drink coffee. |
 | [claude-notifications-go](https://github.com/777genius/claude-notifications-go) | 🔔 Cross-platform smart notifications plugin for Claude Code. 6 types. Click-to-focus. 1 line installation. |
 
 > This repository is now kept as a pointer repository for discoverability.
