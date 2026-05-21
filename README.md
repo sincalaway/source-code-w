@@ -1,12 +1,14 @@
 # Claude Code Source Code
 
 <div align="center">
-  <a href="https://www.atlascloud.ai/developer">
+  <a href="https://www.atlascloud.ai/console/coding-plan">
     <img src="assets/atlascloud-logo.svg" alt="Atlas Cloud" height="38">
   </a>
   <p>
-    <strong>Sponsored by <a href="https://www.atlascloud.ai/developer">Atlas Cloud</a></strong><br>
-    OpenAI-compatible APIs for LLM, image, and video models.
+    <strong>Sponsored by <a href="https://www.atlascloud.ai/console/coding-plan">Atlas Cloud</a></strong><br>
+    Atlas Cloud is a full-modal AI inference platform that gives developers a single AI API to access video generation, image generation, and LLM APIs. Instead of managing multiple vendor integrations, you connect once and get unified access to 300+ curated models across all modalities.
+    <br>
+    Check out Atlas Cloud's new coding plan promotion for more budget-friendly API access.
   </p>
 </div>
 
